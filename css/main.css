@@ -1,0 +1,21 @@
+div {
+    padding: 2.5%;
+}
+
+input,
+select {
+    border-radius: 5px;
+    padding      : 9px;
+}
+select {
+    width: 100%
+}
+
+.content {
+    margin: 5% auto;
+    width : 80%;
+}
+.content div {
+    border-radius: 12px;
+    border       : 2px solid rgb(90, 94, 160);
+}
